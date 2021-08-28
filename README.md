@@ -1,20 +1,56 @@
+<h1 align="center">Hi 👋, I'm Shibu Sarkar</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-### Hi there 👋, My Name Is Shibu Sarkar
-#### Front-end web developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shibuwd&label=Profile%20views&color=0e75b6&style=flat" alt="shibuwd" /> </p>
 
-Skills: HTML / CSS /JS
+<p align="left"> <a href="https://twitter.com/shivam_shibu" target="blank"><img src="https://img.shields.io/twitter/follow/shivam_shibu?logo=twitter&style=for-the-badge" alt="shivam_shibu" /></a> </p>
 
-- 🔭 I’m currently working on Photosnap multi-page website 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
+- 🔭 I’m currently working on **Photosnap multi-page website**
 
+- 🌱 I’m currently learning **JavaScript, Sass**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shibuwd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shivam.shibu7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mr.shibu7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shivam_Shibu)  
+- 👯 I’m looking to collaborate on **Github**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shibuwd)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **shibusarkar@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shibuwd&show_icons=true&count_private=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shivam_shibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_shibu" height="30" width="40" /></a>
+<a href="https://fb.com/shivam.shibu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivam.shibu7" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.shibu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.shibu7" height="30" width="40" /></a>
+<a href="https://www.behance.net/shibusarka619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shibusarka619" height="30" width="40" /></a>
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shibuwd)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/shibuwd)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibuwd&show_icons=true&locale=en&layout=compact" alt="shibuwd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibuwd&show_icons=true&locale=en" alt="shibuwd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibuwd&" alt="shibuwd" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
