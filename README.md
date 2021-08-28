@@ -1,4 +1,3 @@
-![Front-end web development](https://pbs.twimg.com/media/E95YmUcUYAgnV1G?format=jpg&name=4096x4096)
 
 ### Hi there 👋, My Name Is Shibu Sarkar
 #### Front-end web developer
